@@ -11,6 +11,7 @@
 .ssh/
 .viminfo
 .xbuild/
+.mysql_history
 isucon-info
 gocode
 webapp/go/golang-webapp
