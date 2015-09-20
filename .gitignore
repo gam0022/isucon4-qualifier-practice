@@ -1,0 +1,16 @@
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.cache/
+.cpanm/
+.gem/
+.gitignore.swp
+.local/
+.npm/
+.ssh/
+.viminfo
+.xbuild/
+isucon-info
+gocode
+webapp/go/golang-webapp
