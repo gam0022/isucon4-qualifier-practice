@@ -15,3 +15,5 @@
 isucon-info
 gocode
 webapp/go/golang-webapp
+.swo
+*.swp
